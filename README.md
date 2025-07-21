@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Gabriel Oliveira
 
-<!--
-**gabrieloliveira75xx/gabrieloliveira75xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Profissão/Atuação
+**DevOps Engineer** | Especialista em Infraestrutura Linux
 
-Here are some ideas to get you started:
+## 🛠️ Principais Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Administração de sistemas Linux (Proxmox, Debian, Rocky Linux)
+- Virtualização e gerenciamento de servidores físicos
+- RAID (montagem e manutenção)
+- Networking avançado com pfSense
+- Containers com Docker & orquestração via Docker Compose
+- Automação de rotinas (Bash, GitHub Actions, cron)
+- Monitoramento e notificações (APIs Telegram, Slack)
+- Experiência com FastAPI, Django e Traefik
+
+## 🚀 Projetos Notáveis
+
+- [devops-scripts](https://github.com/gabrieloliveira75xx/devops-scripts): Scripts para automação, monitoramento e administração de servidores
+- [nuuvik.com](https://github.com/gabrieloliveira75xx/nuuvik.com): Plataforma completa de criação de sites com agendamento e pagamentos integrados
+
+## 🔗 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/gabrieloliveira75xx/)
+- [GitHub](https://github.com/gabrieloliveira75xx)
+
+## 🎯 Sobre mim
+
+> “Automatize tudo o que for repetitivo.”
+
+Sou entusiasta de Linux e tecnologias open source. Gosto de resolver problemas reais com soluções simples, eficientes e reutilizáveis. Nos tempos livres, adoro experimentar ferramentas novas e montar laboratórios virtuais.
+
+---
