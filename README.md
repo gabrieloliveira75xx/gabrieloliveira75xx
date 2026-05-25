@@ -49,7 +49,7 @@ Plataforma de criação de sites com arquitetura baseada em containers, proxy re
 ## Links
 
 Portfólio: http://script4.com.br/  
-Blog: https://blog.script4.com.br/base-eletrica-ti/  
+Blog: https://blog.script4.com.br/  
 LinkedIn: https://www.linkedin.com/in/gabrieloliveira75xx/  
 GitHub: https://github.com/gabrieloliveira75xx  
 
