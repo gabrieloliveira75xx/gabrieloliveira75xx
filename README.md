@@ -1,65 +1,67 @@
-<h1 align="center">👋 Olá! Eu sou o Gabriel Oliveira</h1>
+<h1 align="center">Gabriel Oliveira</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Expert-green?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/DevOps-Automation-blue?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Networking-pfSense-red?style=flat-square&logo=proxmox" />
-  <img src="https://img.shields.io/badge/FastAPI/Django-Fullstack-blueviolet?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Linux-Advanced-green?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Networking-BGP%2FOSPF-red?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/pfSense-Firewall-blue?style=flat-square&logo=proxmox" />
+  <img src="https://img.shields.io/badge/DevOps-Automation-blueviolet?style=flat-square&logo=docker" />
 </p>
 
 ---
 
-## 💼 Profissão/Atuação
+## Profissão
 
-**DevOps Engineer** | Especialista em Infraestrutura Linux
-
----
-
-## 🛠️ Principais Skills
-
-- 🐧 Administração de sistemas Linux (Proxmox, Debian, Rocky Linux)  
-- 🖥️ Virtualização e gerenciamento de servidores físicos  
-- 💽 RAID (montagem e manutenção)  
-- 🌐 Networking avançado com pfSense  
-- 📦 Containers com Docker & orquestração via Docker Compose  
-- 🤖 Automação de rotinas (Bash, GitHub Actions, cron)  
-- 📈 Monitoramento e notificações (APIs Telegram, Slack)  
-- ⚙️ Desenvolvimento backend com FastAPI, Django e roteamento com Traefik  
+Analista de T.I Jr com foco em redes, infraestrutura e automação.
 
 ---
 
-## 🚀 Projetos Notáveis
+## Redes
 
-🔧 [**devops-scripts**](https://github.com/gabrieloliveira75xx/devops-scripts)  
-Scripts para automação, monitoramento e administração de servidores Linux com notificações via Telegram e Slack.
-
-🌐 [**nuuvik.com**](https://github.com/gabrieloliveira75xx/nuuvik.com)  
-Plataforma completa de criação de sites com templates personalizáveis, agendamento e pagamentos integrados.
-
----
-
-## 🔗 Onde me encontrar
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabrieloliveira75xx/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrieloliveira75xx-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/gabrieloliveira75xx">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-gabrieloliveira75xx-black?style=flat-square&logo=github" />
-  </a>
-</p>
+- Roteamento (BGP, OSPF, VLANs, NAT, policy routing)  
+- Firewalls e segurança com pfSense (regras, VPNs, segmentação)  
+- Troubleshooting (latência, perda de pacotes, análise de tráfego)  
+- Monitoramento (logs, métricas, alertas)  
+- Arquitetura de rede (topologias, alta disponibilidade, failover)  
 
 ---
 
-## 🎯 Sobre mim
+## Infraestrutura
 
-> “Automatize tudo o que for repetitivo.”
+- Linux (Debian, Rocky, Proxmox)  
+- Virtualização (Proxmox VE, LXC)  
+- Containers (Docker, Docker Compose)  
+- Reverse proxy (Traefik, Nginx)  
+- Automação (Bash, Git, CI/CD, cron)  
+- Integração com APIs (Telegram, Slack)
 
-Sou entusiasta de Linux e tecnologias open source. Gosto de resolver problemas reais com soluções simples, eficientes e reutilizáveis.  
-Nos tempos livres, adoro montar labs, testar ferramentas e quebrar tudo (pra aprender consertando).
+---
+
+## Projetos
+
+**devops-scripts**  
+Automação de servidores com deploy baseado em hash, restart seletivo de serviços e notificações.
+
+**nuuvik.com**  
+Plataforma de criação de sites com arquitetura baseada em containers, proxy reverso e isolamento por cliente.
+
+---
+
+## Links
+
+Portfólio: http://script4.com.br/  
+Blog: https://blog.script4.com.br/base-eletrica-ti/  
+LinkedIn: https://www.linkedin.com/in/gabrieloliveira75xx/  
+GitHub: https://github.com/gabrieloliveira75xx  
+
+---
+
+## Observação
+
+Foco em análise de tráfego, identificação de gargalos e construção de ambientes estáveis.  
+Interesse em ambientes distribuídos, redes de alta disponibilidade e automação de infraestrutura.
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrieloliveira75xx/gabrieloliveira75xx/main/assets/terminal.gif" alt="Terminal Banner" width="80%">
+  <img src="https://raw.githubusercontent.com/gabrieloliveira75xx/gabrieloliveira75xx/main/assets/terminal.gif" width="80%">
 </p>
